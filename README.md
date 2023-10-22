@@ -11,3 +11,11 @@ This repository contains programming questions based on Binary Search.
 9) Square root using binary search.
 10) Check if N and its Double Exists.
 11) Search in a sorted array of unknown size.
+12) Binary Search on 2d array.
+
+State Space Search Questions -
+1) Book Allocation Problem.
+2) Painter's Partition Problem.
+3) Aggressive Cow Problem.
+4) Roti Prantha Problem.
+5) Eko Eko (Maximum Height of Saw).
